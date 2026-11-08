@@ -1,0 +1,17 @@
+{
+  "$schema": "https://aspaceos.tech/schemas/cordis-fiber-v5.json",
+  "name": "@aspace-v5/flute",
+  "submodule_path": "01_Forkable/FKB06_Video_SaaS/flute",
+  "sovereign_fork_url": "https://github.com/Amdkn/flute.git",
+  "branch": "aspace-v5-native",
+  "family": "VIDEO_SAAS_MONEY_MAKER",
+  "fractal_layer": "16L",
+  "holon_owner": "B1-BOOK / SUMMER-LD01",
+  "capabilities": [
+    "video_saas_canvas",
+    "productized_b2b_video_workflow",
+    "cordis_revertible_fiber"
+  ],
+  "a0_integration_target": "01_Forkable/FKB00_Runtime/00_A0_Core/a0_holon_swarm_runtime.py",
+  "egm_gateway_endpoint": "http://127.0.0.1:31415/v1/chat/completions"
+}
